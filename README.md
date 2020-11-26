@@ -1,3 +1,3 @@
-# hello-world
-walkthrough example by GitHub
-by Giant Su
+# hello world
+walkthrough example by GitHob
+
