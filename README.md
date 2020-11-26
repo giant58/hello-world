@@ -1,5 +1,3 @@
 # hello world
-walkthrough example by GitHub
-======
-more comments by Giant
-======
+walkthrough example by GitHob
+
